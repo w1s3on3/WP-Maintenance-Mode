@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Maintenance Mode
-Plugin URI: https://wyers.com.au/
+Plugin URI: https://github.com/w1s3on3/WP-Maintenance-Mode
 Description: A simple maintenance mode plugin for WordPress.
 Version: 1.0
 Author: Paul Wyers
-Author URI: https://wyers.com.au/
+Author URI: https://github.com/w1s3on3
 License: GPL-2.0-or-later
 */
 
